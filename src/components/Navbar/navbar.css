@@ -1,0 +1,91 @@
+.header-container{
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    padding: 2rem 3rem;
+    box-shadow: 0 -2px 10px 1px var(--color-red);
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: var(--color-lightblue);
+}
+
+.header-logo_container{
+    display: flex;
+    align-items: center;
+}
+
+.header-logo_container img{
+    width: 70px;
+    margin-right: 1rem;
+    box-shadow: 0 0 5px -1px var(--color-light);
+}
+
+.header-logo_text{
+    color: var(--color-light);
+    font-size: 42px;
+    text-decoration: none;
+    font-weight: bold;
+    transition: 0.5s;
+}
+.header-logo_text:hover{
+    transform: scale(1.01);
+}
+
+.header-navbar{
+    width: 30%;
+    display: flex;
+    justify-content: center;
+}
+
+.header-navbar_links{
+    display: flex;
+    justify-content: space-evenly;
+    width: 100%;
+    align-items: center;
+}
+
+.header-navbar_links li{
+    list-style: none;
+}
+
+.header-navbar_links li a{
+    text-decoration: none;
+    color: var(--color-light);
+    font-weight: 700;
+    font-size: 20px;
+    transition: 1s;
+    position: relative;
+}
+
+.header-navbar_links li:last-child a{
+    font-size: 42px;
+    display: flex;
+    align-items: center;
+}
+
+.header-navbar_links li:last-child a:hover{
+    transform: scale(1.1);
+    color: var(--color-red);
+}
+
+
+  
+  .hover-underline-animation::after {
+    content: '';
+    position: absolute;
+    width: 100%;
+    transform: scaleX(0);
+    height: 2px;
+    bottom: 0;
+    left: 0;
+    background-color: var(--color-red);
+    transform-origin: bottom right;
+    transition: transform 0.25s ease-out;
+  }
+  
+  .hover-underline-animation:hover::after {
+    transform: scaleX(1);
+    transform-origin: bottom left;
+  }
+

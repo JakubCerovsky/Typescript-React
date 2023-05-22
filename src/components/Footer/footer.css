@@ -1,0 +1,11 @@
+.footer-container{
+    padding: 1rem;
+    width: 100%;
+    text-align: center;
+    background-color: var(--color-red);
+}
+
+.footer-container p{
+    color: var(--color-light);
+    font-weight: bold;
+}

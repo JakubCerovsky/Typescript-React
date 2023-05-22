@@ -1,0 +1,80 @@
+.product{
+    margin-top: 7rem;
+    display: flex;
+    flex-direction: column;
+    padding: 3rem;
+}
+
+.product h1{
+    margin-bottom: 2rem;
+}
+
+.product-info{
+    display: flex;
+    align-items: center;
+    margin-bottom: 2rem;
+    width: 100%;
+}
+
+.product-info img{
+max-height: 300px;
+max-width: 40%;
+border: 1px solid var(--color-blue);
+}
+
+.product-info_text{
+    display: flex;
+    flex-direction: column;
+    margin-left: 3rem;
+    justify-content: space-around;
+    height: 300px;
+
+}
+
+.product-info_text div p{
+    margin-bottom: 1rem;
+    font-size: 20px;
+}
+
+.product-info_text button{
+    align-self:flex-end;
+    display: flex;
+    align-items: center;
+    padding: 0.5rem 1rem;
+    background-color: transparent;
+    color: var(--color-red);
+    font-size: 26px;
+    font-weight: bold;
+    font-family: var(--font-family);
+    border: none;
+    border-radius: 2px;
+    cursor: pointer;
+    transition: 0.5s;
+}
+
+.product-info_text button:hover{
+    background-color: var(--color-red);
+    color: var(--color-light);
+}
+
+.back-button{
+    text-align: center;
+    text-decoration: none;
+    width: 7rem;
+    height: 2.5rem;
+    color: var(--color-blue);
+    font-size: 16px;
+    font-weight: bold;
+    background-color: var(--color-light);
+    border: 1px solid var(--color-blue);
+    border-radius: 5px;
+    padding:0.5rem 1rem;
+    transition: 0.5s;
+    cursor: pointer;
+}
+
+.back-button:hover{
+    border: 1px solid var(--color-light);
+    color: var(--color-light);
+    background-color: var(--color-blue);
+    }

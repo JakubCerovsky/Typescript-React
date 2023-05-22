@@ -1,0 +1,129 @@
+[
+    {
+      "id": 1,
+      "imagePath": "/lego1.jpg",
+      "title": "LEGO Classic Bricks and Gears 10712",
+      "price": 19.99
+    },
+    {
+      "id": 2,
+      "imagePath": "/lego4.jpg",
+      "title": "LEGO Creator Mighty Dinosaurs 31058",
+      "price": 11.99
+    },
+    {
+      "id": 3,
+      "imagePath": "/lego2.jpg",
+      "title": "LEGO Technic Chevrolet Corvette ZR1 42093",
+      "price": 49.99
+    },
+    {
+      "id": 4,
+      "imagePath": "/lego5.jpg",
+      "title": "LEGO Star Wars Darth Vader Transformation 75183",
+      "price": 24.99
+    },
+    {
+      "id": 5,
+      "imagePath": "/lego3.jpg",
+      "title": "LEGO Harry Potter and The Chamber of Secrets Aragog's Lair 75950",
+      "price": 14.99
+    },
+    {
+      "id": 6,
+      "imagePath": "/lego4.jpg",
+      "title": "LEGO Friends Stephanie's Sports Arena 41338",
+      "price": 29.99
+    },
+    {
+      "id": 7,
+      "imagePath": "/lego1.jpg",
+      "title": "LEGO Disney Frozen Anna & Elsa's Frozen Playground 10736",
+      "price": 24.99
+    },
+    {
+      "id": 8,
+      "imagePath": "/lego5.jpg",
+      "title": "LEGO DUPLO Town Airport 10871",
+      "price": 24.99
+    },
+    {
+      "id": 9,
+      "imagePath": "/lego3.jpg",
+      "title": "LEGO Ninjago Movie Quake Mech 70632",
+      "price": 79.99
+    },
+    {
+      "id": 10,
+      "imagePath": "/lego5.jpg",
+      "title": "LEGO Creator Modular Family Villa 31069",
+      "price": 79.99
+    },
+    {
+      "id": 11,
+      "imagePath": "/lego1.jpg",
+      "title": "LEGO City Pickup & Caravan 60182",
+      "price": 29.99
+    },
+    {
+      "id": 12,
+      "imagePath": "/lego3.jpg",
+      "title": "LEGO Technic Rough Terrain Crane 42082",
+      "price": 299.99
+    },
+    {
+      "id": 13,
+      "imagePath": "/lego4.jpg",
+      "title": "LEGO Friends Heartlake City Resort 41347",
+      "price": 99.99
+    },
+    {
+      "id": 14,
+      "imagePath": "/lego1.jpg",
+      "title": "LEGO Star Wars X-Wing Starfighter 75218",
+      "price": 89.99
+    },
+    {
+      "id": 15,
+      "imagePath": "/lego5.jpg",
+      "title": "LEGO Harry Potter Hogwarts Great Hall 75954",
+      "price": 99.99
+    },
+    {
+      "id": 16,
+      "imagePath": "/lego3.jpg",
+      "title": "LEGO DUPLO Steam Train 10874",
+      "price": 59.99
+    },
+    {
+      "id": 17,
+      "imagePath": "/lego4.jpg",
+      "title": "LEGO Creator Expert Taj Mahal 10256",
+      "price": 369.99
+    },
+    {
+      "id": 18,
+      "imagePath": "/lego3.jpg",
+      "title": "LEGO Ninjago City Docks 70657",
+      "price": 229.99
+    },
+    {
+      "id": 19,
+      "imagePath": "/lego5.jpg",
+      "title": "LEGO Friends Mia's Tree House 41335",
+      "price": 29.99
+    },
+    {
+      "id": 20,
+      "imagePath": "/lego2.jpg",
+      "title": "LEGO Classic Creative Bricks 10692",
+      "price": 16.99
+    },
+    {
+      "id": 21,
+      "imagePath": "/lego3.jpg",
+      "title": "LEGO Classic Creative Bricks 10692",
+      "price": 16.99
+    }
+]
+  
